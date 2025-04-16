@@ -41,7 +41,7 @@
 .header__description {
   margin: 20px 0 0;
   max-width: 683px;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -57,7 +57,7 @@
 
 .header__paragraph {
   margin: 0;
-  font-family: "Inter", Arial, "sans-serif";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
