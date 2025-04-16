@@ -11,7 +11,7 @@
 
 .about__title {
   max-width: 251px;
-  font-family: "Inter";
+  font-family: "Inter", Arial, "sans-serif";
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -25,6 +25,7 @@
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
+  margin: 0;
 }
 
 .about__content {
@@ -33,6 +34,7 @@
   flex-direction: column;
   gap: 20px;
   margin-left: auto;
+  margin: 119px;
 }
 
 .about__circle {
